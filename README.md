@@ -8,7 +8,7 @@ The **AnimeDexLite Project** has been discontinued. and i decided to remodel
 - Gogoanime scrapper
 - Anilist scrapper
 
-Documentation : https://api.anime-dex.workers.dev
+Documentation : https://api.abrahamdw882.workers.dev
 
 ## Deploy To Cloudflare (Easy Way)
 
