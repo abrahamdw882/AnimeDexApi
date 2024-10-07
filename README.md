@@ -1,4 +1,4 @@
-## ⚠️ **Note: This Project Is Stopped**
+## ⚠️ **Note: This Project Is Stopped but i have rose it up**
 
 The **AnimeDexLite Project** has been discontinued. and i decided to remodel
 
